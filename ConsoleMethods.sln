@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders1_2_parametre_nedir", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ResulDersler", "ResulDersler", "{3AB0A422-E5DC-4065-A3A2-21B9CD330D6D}"
 	ProjectSection(SolutionItems) = preProject
-		HomeWork.txt = HomeWork.txt
+		Ders1_methods_nedir\HomeWork.txt = Ders1_methods_nedir\HomeWork.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YasininKodlari", "YasininKodlari", "{7DFCB2FB-EBC1-4B84-9F8D-27614881628B}"

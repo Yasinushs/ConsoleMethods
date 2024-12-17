@@ -1,0 +1,3 @@
+17 Aralık 2024 Ödevleri
+1) farklı isimlerde ve farklı işlemleri yapan 10 tane method kodlayınız
+
