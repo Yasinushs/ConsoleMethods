@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders1_methods_nedir", "Ders1_methods_nedir\Ders1_methods_nedir.csproj", "{FC9A9B2B-CFAB-4660-9EA8-2CAB9637B815}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders1_1_methods_nedir", "Ders1_methods_nedir\Ders1_1_methods_nedir.csproj", "{FC9A9B2B-CFAB-4660-9EA8-2CAB9637B815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders1_2_parametre_nedir", "Ders1_2_parametre_nedir\Ders1_2_parametre_nedir.csproj", "{6B1D83CF-8540-4F50-9C01-376679B8D54F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FC9A9B2B-CFAB-4660-9EA8-2CAB9637B815}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC9A9B2B-CFAB-4660-9EA8-2CAB9637B815}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC9A9B2B-CFAB-4660-9EA8-2CAB9637B815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1D83CF-8540-4F50-9C01-376679B8D54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1D83CF-8540-4F50-9C01-376679B8D54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1D83CF-8540-4F50-9C01-376679B8D54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1D83CF-8540-4F50-9C01-376679B8D54F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
