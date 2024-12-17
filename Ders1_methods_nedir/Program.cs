@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+         
+            //Method hakkında bilgileri yazar
+
+            //Method kodlamanın en temel yapılarını oluşturmaktadır
+
         }
     }
 }
