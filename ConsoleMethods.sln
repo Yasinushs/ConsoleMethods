@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders1_1_methods_nedir", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders1_2_parametre_nedir", "Ders1_2_parametre_nedir\Ders1_2_parametre_nedir.csproj", "{6B1D83CF-8540-4F50-9C01-376679B8D54F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ResulDersler", "ResulDersler", "{3AB0A422-E5DC-4065-A3A2-21B9CD330D6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YasininKodlari", "YasininKodlari", "{7DFCB2FB-EBC1-4B84-9F8D-27614881628B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FC9A9B2B-CFAB-4660-9EA8-2CAB9637B815} = {7DFCB2FB-EBC1-4B84-9F8D-27614881628B}
+		{6B1D83CF-8540-4F50-9C01-376679B8D54F} = {7DFCB2FB-EBC1-4B84-9F8D-27614881628B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ABF6E856-8837-4FFD-8B7B-276EE94F6C85}
