@@ -16,7 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YasininKodlari", "YasininKo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D1_1_methods_nedir", "D1_1_methods_nedir\D1_1_methods_nedir.csproj", "{FB1FFFE9-3309-470A-A6E3-376E93B2E911}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork_Methods", "HomeWork_Methods\HomeWork_Methods.csproj", "{3C29CA86-15B7-4CBE-967B-531825AA9E2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders1_HomeWork_Methods", "HomeWork_Methods\Ders1_HomeWork_Methods.csproj", "{3C29CA86-15B7-4CBE-967B-531825AA9E2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
