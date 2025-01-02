@@ -46,11 +46,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders2_6_return_Ornek", "Der
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders2_7_return_Ornek", "Ders2_7_return_Ornek\Ders2_7_return_Ornek.csproj", "{179E7FD3-4621-4446-B49C-E9A01A81F18F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3_1_parameters", "Ders3_1_parameters\Ders3_1_parameters.csproj", "{1E5714F1-F436-48F9-A676-57A44C7776BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D3_1_parametre", "D3_1_parametre\D3_1_parametre.csproj", "{EA75E4C0-9292-49A0-85CB-3ECF69360CAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3_2_parameters_dizi", "Ders3_2_parameters_dizi\Ders3_2_parameters_dizi.csproj", "{8BC29E7B-2F8E-4ED7-B67D-73A6A8D55C9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D3_2_parametre_dizi", "D3_2_parametre_dizi\D3_2_parametre_dizi.csproj", "{33BBF59F-EDF8-4A51-A767-96EF2E1C5842}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3_3_overload_methods", "Ders3_3_overload_methods\Ders3_3_overload_methods.csproj", "{F376B325-8FA9-47F0-8D6C-2D940B30A7E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3_3_overload_methods", "D3_3_overload_methods\D3_3_overload_methods.csproj", "{D21E9AFA-3EC3-440E-9D47-B306CF534DA3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D3_3_overload_methods", "D3_3_overload_methods\D3_3_overload_methods.csproj", "{4ADE39E6-6B24-474D-8C63-E7F8C12BD504}"
 EndProject
@@ -196,6 +196,9 @@ Global
 		{5D21C5BF-3960-4D32-984E-5086D91833CA} = {3AB0A422-E5DC-4065-A3A2-21B9CD330D6D}
 		{15256183-4FA2-4FEB-BB3D-ABC04CDFBEF4} = {3AB0A422-E5DC-4065-A3A2-21B9CD330D6D}
 		{BCB1A37D-DEF2-4A89-A2AD-4A28145F0C43} = {7DFCB2FB-EBC1-4B84-9F8D-27614881628B}
+		{EA75E4C0-9292-49A0-85CB-3ECF69360CAE} = {3AB0A422-E5DC-4065-A3A2-21B9CD330D6D}
+		{33BBF59F-EDF8-4A51-A767-96EF2E1C5842} = {3AB0A422-E5DC-4065-A3A2-21B9CD330D6D}
+		{D21E9AFA-3EC3-440E-9D47-B306CF534DA3} = {3AB0A422-E5DC-4065-A3A2-21B9CD330D6D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ABF6E856-8837-4FFD-8B7B-276EE94F6C85}
