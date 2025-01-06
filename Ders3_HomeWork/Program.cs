@@ -12,12 +12,27 @@
             //yaş 65 ve üstü ve prim gün sayısı 6500 üstünde ise emekli olabilir ve maaşının 14 katı kadar ikramiye verilerek emekli edilecektir. Eğer yaş 59 üstünde ise prim gün sayısı 7300 üstünde ise maaşının 13 katı kadar ikramiye alarak emekli edilecek. Bu şartlar dışında olanlar emekli edilemeyecek
             //ÖNEMLİ: Mutlaka overload method kullanılacak. Main method içinde kod sadece method çağırma işlemi yapılacak
             // */
-
+            VeriIste("Cinsiyeti giriniz");
+            VeriIste("Yaşı giriniz");
+            VeriIste("Maaş giriniz");
+            VeriIste("Çalıştığınız gün sayısı giriniz");
 
         }
         static void VeriIste(string deger)
         {
             Console.WriteLine(deger);
         }
+        static int DonusturInt()
+        {
+            return Convert.ToInt32(Oku());
+        }
+
+
+
+        static string Oku()
+        {
+            return Console.ReadLine();
+        }
+
     }
 }
