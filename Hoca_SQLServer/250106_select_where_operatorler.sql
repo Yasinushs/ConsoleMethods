@@ -20,6 +20,40 @@ SQL=> Structure Query Language=> Database bir Programlama dili değildir
 .
 
 */
+use NorthwindDB -- DB çağırmka için kullanılır
+select * from Categories
+select * from Products 
+
+select  
+CategoryID, 
+CategoryName
+from Categories
+--Allians - İsimlendirme
+select  
+ProductID as ID,
+ProductName AS 'Ürün Adı' , 
+UnitsInStock as [Ürün Stoğu],
+UnitPrice as Ürün_Fiyat
+from Products
+--***********************
+-- Where-> bir koşul oluştumak için kullanılır
+--Fiyatı 10 olan ürünleri getirelim
+select *from Products where UnitPrice=10
+
+/*
+OPERATÖRLER
+=
+<
+>
+<=
+>=
+!=
+and => 
+or => 
+*/
+select *from Products where UnitPrice >= 100
+select *from Products where UnitPrice >=10 and UnitPrice<=15
+
 
 
 
