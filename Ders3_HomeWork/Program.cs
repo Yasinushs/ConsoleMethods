@@ -23,6 +23,9 @@
 
         }
 
+        /// <summary>
+        /// Cinsiyet girişi verir
+        /// </summary>
         static void CinsiyetAl()
         {
             VeriIste("Cinsiyeti giriniz");
@@ -30,6 +33,10 @@
             Hesapla(cinsiyetAl);
         }
 
+        /// <summary>
+        /// Kullanıcıdan yaş ister
+        /// </summary>
+        /// <returns></returns>
         static byte YasIste()
         {
 
