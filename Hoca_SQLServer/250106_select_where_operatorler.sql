@@ -20,6 +20,61 @@ SQL=> Structure Query Language=> Database bir Programlama dili değildir
 .
 
 */
+use NorthwindDB--DB çağırmak için kullanılır
+select *from Categories
+
+select *from Products
+--select *from yazılan tabloda bütün verileri getirir
+select 
+--* yerine sadece istenilen kolon isimleri yazılarak sadece o kolonların verileri gösterilebilir
+CategoryID,
+CategoryName
+from Categories
+--Console=> console(C büyük olmalı)
+
+selEct *fRom CategoriEs
+--SQL de küçük-büyük harf duyarlılığı yoktur
+select ProductID,ProductName ,UnitPrice,UnitsInStock from Products
+
+--product tablosunda fiyat, adet, isim kolonlarını listele
+--******************************************************************
+--Allians-isimlendirme
+select 
+ProductID as ID,
+ProductName as 'Ürün Adı' ,
+UnitPrice as [Ürün Fiyatı],
+UnitsInStock as ÜrünStok
+from Products
+--************************
+--Where-> bir koşul oluşturmak için kullanılır
+--Fİyatı 10 olan ürünleri getirelim
+select *from Products where UnitPrice=10
+/*
+OPERATÖRLER
+=
+<
+>
+<=
+>=
+!=
+and => 
+or => 
+*/
+select *from Products where UnitPrice>=100
+select *from Products where UnitPrice>=10 and UnitPrice<=15
+--neler öğrendin-> select*from ,Allians,Where,Operatörler
+select 
+ProductID			as ID,
+ProductName			as 'Ürün Adı',
+UnitPrice			as  Fiyat,
+UnitsInStock		as Stok
+
+from Products where UnitPrice>=10 and UnitPrice<=15
+
+
+
+
+
 
 
 
