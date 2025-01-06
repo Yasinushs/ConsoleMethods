@@ -1,0 +1,2 @@
+--1.ders
+--Selecet çalýþmasý
